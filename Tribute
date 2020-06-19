@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<style type="text/css">
+ html {
+  font-size: 10px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #f0fff0;
+  background: #191919;
+}
+ul {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+#title {
+  font-size: 5rem;
+}
+p {
+  font-size: 3rem;
+}
+#img-caption {
+  font-size: 1.3rem;
+}
+#headline {
+  font-size: 2.4rem;
+}
+li {
+  font-size: 1.5rem;
+}
+.years {
+  font-size: 2rem;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#tribute-info {
+  font-size: 2.2rem;
+}
+b,
+strong {
+  color: #f0fff0;
+}
+a:hover {
+  color: yellow;
+}
+#everything {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#time {
+  display: flex;
+  flex-direction: column;
+}
+.results {
+  text-align: left;
+} 
+</style>
+<html lang="en">
+<main id="main">
+  <div id="everything">
+    <h1 id="title"> Marcus "Dyrus" Hill </h1>
+    <p> The <strong>TOP</strong> laner </p>
+    <figure id="img-div">
+      <img id="image" src="https://www.pcgamesn.com/wp-content/uploads/legacy/dyrus-lol-gunnars-580x326.jpg" alt="dyrus waving at the camera" />
+      <figcaption id="img-caption">
+        Dyrus smiling and waving at the camera.
+      </figcaption>
+    </figure>
+    <h2 id="headline"> Dyrus' results in competitive LoL:</h2>
+    <div id="time">
+      <ul>
+        <li class="years"><strong>2011</strong>
+          <div class="results">
+            <ul>
+              <li>4<sup>th</sup> place at Season One World Championship with team Epik Gamer</li>
+              <li>2<sup>nd</sup> place at MLG Pro Circuit/Raleigh with team Epik Gamer</li>
+              <li>2<sup>nd</sup> place at Sound Blaster Nations Championship with team USA</li>
+              <li>2<sup>nd</sup> place at IGN ProLeague Season 3 - Atlantic City with team Epik Gamer</li>
+              <li>2<sup>nd</sup> place at MLG Pro Circuit/Providence with team Epik Game </li>
+              <li>1<sup>st</sup> place at World Cyber Games/Main Tournament with team Chicks Dig Elo</li>
+            </ul>
+          </div>
+        <li class="years"><strong>2012</strong>
+          <div class="results">
+            <ul>
+              <li>3<sup>rd</sup> place at LoLPro.com Curse Invitational with team Epik Gamer</li>
+              <li>2<sup>nd</sup> place at IGN ProLeague SXSW All-Stars 2012 with team West Coast</li>
+              <li>1<sup>st</sup> place at Fatal1ty Gaming Gear League of Legends Tournament with Team SoloMid</li>
+              <li>1<sup>st</sup> place at Playhem Showmatch - #1 with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at Playhem Showmatch - #2 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at Leaguecraft ggClassic with Team SoloMid</li>
+              <li>1<sup>st</sup> place at IPL 4 Las Vegas with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at Solomid EU Invitational 1 with Team SoloMid</li>
+              <li>5<sup>th</sup> place at Corsair Vengeance Cup with Team SoloMid</li>
+              <li>1<sup>st</sup> place at Solomid NA Invitational 1
+                with Team SoloMid</li>
+              <li>1<sup>st</sup> place at Reign of Gaming International Invitational with Team SoloMid</li>
+              <li>5<sup>th</sup> place at In2LOL Kickoff NA Tournament with Team SoloMid</li>
+              <li>1<sup>st</sup> place at MLG 2012 Spring Championship
+                with Team SoloMid</li>
+              <li>1<sup>st</sup> place at GIGABYTE Esports LAN- with Team SoloMid</li>
+              <li>5<sup>th</sup> place at Solomid NA Invitational 3 with Team SoloMid</li>
+              <li>4<sup>th</sup> place at NESL Pro Series 3 with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at Solomid NA Invitational 4 with Team SoloMid</li>
+              <li>4<sup>th</sup> place at Elite of Europe
+                with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at SoloMid NA Invitational 5 with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at IPL Elites - North America
+                with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at MLG 2012 Summer Arena with Team SoloMid</li>
+              <li>1<sup>st</sup> place at SoloMid NA Invitational 6 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at IPL Face Off: San Francisco Showdown with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at SoloMid NA Invitational 7 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at Season 2 Regional Finals - Seattle with Team SoloMid</li>
+              <li>1<sup>st</sup> place at SoloMid NA Invitational 8
+                with Team SoloMid</li>
+              <li>4<sup>th</sup> place at SoloMid NA Invitational 9 with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at SoloMid NA Invitational 10 with Team SoloMid</li>
+              <li>4<sup>th</sup> place at SoloMid NA Invitational 11 with Team SoloMid</li>
+              <li>5<sup>th</sup> place at Worlds Season 2 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at SoloMid Series Week 1 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at SoloMid Series Week 2 with Team SoloMid</li>
+              <li>5<sup>th</sup> place at MLG 2012 Fall with Team SoloMid</li>
+              <li>5<sup>th</sup> place at SoloMid Series Week 3 with Team SoloMid</li>
+              <li>5<sup>th</sup> place at SoloMid Series Week 4 with Team SoloMid</li>
+              <li>5<sup>th</sup> place at SoloMid Series Week 5 with Team SoloMid</li>
+              <li>9<sup>th</sup> place at IPL 5 with Team SoloMid</li>
+              <li>1<sup>st</sup> place at SoloMid Series Week 6 with Team SoloMid</li>
+              <li>4<sup>th</sup> place at SoloMid Series Finals with Team SoloMid</li>
+            </ul>
+          </div>
+        <li class="years"><strong>2013</strong>
+          <div class="results">
+            <ul>
+              <li>1<sup>st</sup> place at NA LCS 2013 Spring with Team SoloMid</li>
+              <li>1<sup>st</sup> place at NA LCS 2013 Spring Playoffs with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at All-Star 2013 Shanghai with team NA LCS Allstars</li>
+              <li>3<sup>rd</sup> place at NA LCS 2013 Summer with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at NA LCS 2013 Summer Playoffs
+                with Team SoloMid</li>
+              <li>11<sup>th</sup> place at Worlds Season 3
+                with Team SoloMid</li>
+            </ul>
+          </div>
+        </li>
+        <li class="years"><strong>2014</strong>
+          <div class="results">
+            <ul>
+              <li>2<sup>nd</sup> place at NA LCS 2014 Spring
+                with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at NA LCS 2014 Spring Playoffs
+                with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at NA LCS 2014 Summer
+                with Team SoloMid</li>
+              <li>1<sup>st</sup> place at NA LCS 2014 Summer Playoffs
+                with Team SoloMid</li>
+              <li>5<sup>th</sup> place at Worlds 2014
+                with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at IEM Season 9 San Jose
+                with Team SoloMid</li>
+            </ul>
+          </div>
+        </li>
+        <li class="years"><strong>2015</strong>
+          <div class="results">
+            <ul>
+              <li>1<sup>st</sup> place at IEM Season 9 World Championship
+
+                with Team SoloMid</li>
+              <li>1<sup>st</sup> place at NA LCS 2015 Spring
+                with Team SoloMid</li>
+              <li>1<sup>st</sup> place at NA LCS 2015 Spring Playoffs
+                with Team SoloMid</li>
+              <li>5<sup>th</sup> place at MSI 2015
+                with Team SoloMid</li>
+              <li>3<sup>rd</sup> place at NA LCS 2015 Summer
+                with Team SoloMid</li>
+              <li>2<sup>nd</sup> place at NA LCS 2015 Summer Playoffs
+                with Team SoloMid</li>
+              <li>14<sup>th</sup> place at Worlds 2015
+                with Team SoloMid</li>
+            </ul>
+          </div>
+        </li>
+        <li class="years"><strong>2017</strong>
+          <div class="results">
+            <ul>
+              <li>6<sup>th</sup> place at NACS 2017 Summer
+                with team Delta Fox</li>
+              <li>2<sup>nd</sup> place at Tyler1 Championship Series 2017
+                with Meme Stream Dream Team</li>
+            </ul>
+          </div>
+        </li>
+        <li class="years"><strong>2017</strong>
+          <div class="results">
+            <ul>
+              <li>1<sup>st</sup> place at Return of the Legends 2018
+                with team West</li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <Br>
+    <br>
+    <br>
+    <h3 id="tribute-info"> Dyrus was a great top laner and an awesome person who inspired many. you can read more about dyrus in his<a id="tribute-link" href="https://lol.gamepedia.com/Dyrus" target="_blank"> Gamepedia page</a>.</h3>
+  </div>
+  <br>
+  <br>
+</main>
+</html>
